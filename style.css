@@ -365,7 +365,171 @@ img {
     margin-top:-30px;
 }
 
+.opismjesta1, .opismjesta2, .opismjesta3, .opismjesta4 { 
+    font-size:18px; 
+    font-family:'Open Sans';
 
+}
+
+.opismjesta15, .opismjesta25, .opismjesta35, .opismjesta45 { 
+    font-size:18px;
+    font-family:'Open Sans';
+    margin-top:-10px;
+}
+
+.naslov {
+    font-size:16px;
+    margin-left:1200px;
+    margin-top:50px;
+    font-family: 'Open Sans';
+}
+
+.teta { 
+    margin-top:10px;
+    margin-left:20px;
+
+}
+
+.prvi {
+    font-size:18px;
+    font-family:'Open Sans';
+    margin-left:700px;
+    margin-top:-400px;
+}
+
+.about {
+    text-align: right; 
+    position: relative; 
+    top: -300px; 
+    font-size:16px;
+    margin-left:20px;
+}
+
+.naslov1 {
+    margin-left:1200px;
+    margin-top:100px;
+    color:white;
+    
+}
+
+
+.spacer {
+    margin: 0 40px; /* Dodajte horizontalni razmak od 40 piksela između elemenata */
+}
+
+
+
+.brojevi {
+    color:#f15926;
+    font-family:'Open Sans';
+    font-size:32px;
+    margin-left:750px;
+    margin-top:-250px;
+    
+}
+
+.iskustvo, .kupci, .usluge, .guides { 
+    font-size:16px;
+    color:darkgrey;
+    font-family:'Open Sans';
+}
+
+.iskustvo { 
+    margin-left:750px;
+}
+
+.kupci {
+    margin-left:850px;
+    margin-top:-65px;
+}
+
+.usluge {
+    margin-left:1000px;
+    margin-top:-65px;
+}
+
+.guides {
+    margin-left:1140px;
+    margin-top:-65px;
+}
+
+.custom-box {
+    width: 569px; /* Postavite širinu kutije na 569 piksela */
+    height: 330px; /* Postavite visinu kutije na 330 piksela */
+    border: 2px solid #000; /* Dodajte okvir oko kutije */
+    padding: 10px; /* Dodajte unutarnje polje oko teksta */
+    background-color: #f0f0f0; /* Postavite pozadinu kutije */
+}
+
+
+.pink-background {
+    
+        background-color: rgb(244, 187, 140); /* Postavite boju pozadine na roza */
+        
+        background-size: cover; /* Skalira sliku da pokrije celu površinu */
+        background-position: center; /* Centrira sliku */
+        width: 100%; /* Postavite širinu na 100% širine viewporta */
+        height: 450px; /* Postavite visinu prema vašim potrebama */
+        margin-top:300px;
+    }
+    
+
+
+.text-frame {
+  width:569px;
+  height:330px;
+  left:250px;
+  border-radius:24px;
+  padding:30px;
+  gap:32px;
+  margin-top:-380px;
+  margin-left:80px;
+  background-color: #f5ebeb;
+    
+}
+
+.tekst { 
+    font-size:18px;
+    margin-top:20px;
+    font-size:'Open Sans';
+
+}
+
+
+.vecitekst {
+    margin-left:100px;
+    font-size:32px;
+}
+
+
+.dugme2 {
+    width: 212px; 
+    height: 47px; /* Postavite visinu boksa prema vašim potrebama */
+    background-color: orange; /* Postavite boju pozadine na narandžastu */
+    border-radius: 10px; /* Postavite radijus zaobljenih ivica */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    gap:10px;
+    margin-left:240px;
+    margin-top:-70px;
+}
+
+.dugme2 p {
+    margin: 0; 
+    color: white; 
+    font-size:20px;
+    font-family: 'Open Sans';
+    
+} 
+
+.teta3 {
+    width:327px;
+    height:500px;
+    margin-left:800px;
+    margin-top:-525px;
+}
 
 
 
